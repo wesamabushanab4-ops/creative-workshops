@@ -1,0 +1,10 @@
+# Dependencies and build output
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+!**/.env.example
+
+# Local browser-test output and packaged submission
+.playwright-mcp/
+CreativeWorkshops.zip
